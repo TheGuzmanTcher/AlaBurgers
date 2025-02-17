@@ -1,4 +1,4 @@
-# 🍔Tienda de Hamburguesas con Carrito de Compras y Pedido por WhatsApp  
+# Tienda de Hamburguesas con Carrito de Compras y Pedido por WhatsApp 🍔  
 
 Este proyecto es una página web para una tienda de hamburguesas que permite a los clientes:  
 ✅ Agregar productos al carrito de compras.  
